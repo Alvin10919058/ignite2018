@@ -1,5 +1,5 @@
 # 2018ignite_rn
-this is an app for Torch Church's  activity - ignite
+this is an app for Torch Church's  activity - ignite <br>
 這是我幫我們教會做的活動APP，使用時間是在2018/07/02~2018/07/07
 給將近500多人的學生實境活動當中！
 
