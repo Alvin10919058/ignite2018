@@ -1,6 +1,9 @@
 # 2018ignite
 this is an app for Torch Church's  activity - ignite <br>
-這是我幫我們教會做的活動APP，使用時間是在2018/07/02~2018/07/07 <br>
+這是我幫我們教會做的活動APP, <br>
+利用React Native & Redux開發, <br>
+並在 iOS, Android 上架, <br>
+使用時間是在2018/07/02~2018/07/07, <br>
 給將近500多人的學生實境活動當中！<br>
 
 ## APP 上架網址:
